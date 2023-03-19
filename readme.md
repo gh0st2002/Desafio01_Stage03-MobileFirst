@@ -3,15 +3,7 @@
 <h1>Design feito com CSS e HTML 5 / Desafio explorer ROCKETSEAT </h1>
 
 <p align="center">
-  <img alt="Payment_api" src=".github/project.png" width="100%">
-</p>
-
-<p align="center">
-  <img alt="Payment_api" src=".github/project2.png" width="100%">
-</p>
-
-<p align="center">
-  <img alt="Payment_api" src=".github/project3.png" width="100%">
+  <img alt="Payment_api" src=".github/images/Screenshot_26.png" width="100%">
 </p>
 
 ## 🔖 Layout
